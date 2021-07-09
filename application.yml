@@ -6,4 +6,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
       
   instance:
-    hostname: localhost  
+    hostname: jyothip.ds.alacriti.com  
